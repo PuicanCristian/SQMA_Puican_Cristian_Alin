@@ -1,0 +1,23 @@
+{
+  "name": "SQMA_Puican_Cristian_Alin",
+  "version": "1.0.0",
+  "description": "",
+  "main": "utilities.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PuicanCristian/SQMA_Puican_Cristian_Alin.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/PuicanCristian/SQMA_Puican_Cristian_Alin/issues"
+  },
+  "homepage": "https://github.com/PuicanCristian/SQMA_Puican_Cristian_Alin#readme",
+  "devDependencies": {
+    "jest": "^27.4.4"
+  }
+}
